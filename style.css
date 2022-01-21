@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.first-bnt{
+    background-color: rgb(255, 0, 106);
+    color:white;
+    padding:15px 40px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    border:none;
+}
+.two-bnt{
+    background-color: rgb(255, 0, 106);
+    color:white;
+    border-radius: 10px;
+    padding:15px 40px;
+    text-transform: uppercase;
+    border:none;
+}
+.three-bnt{
+    background-color: rgb(255, 0, 106);
+    color:white;
+    padding:15px 40px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    border:none;
+}
+
+
+
+.menu-navbar-nav .nav-item .nav-link{
+    font-size: 17px;
+    font-weight: 600;
+    color:black;
+    text-transform: capitalize;
+    margin:0px 5px;
+}
+
+.banner-section .container{
+ background-color:#fceae8;
+} 
+
+
+.contact-info .title h1{
+    font-size: 36px;
+    line-height: 36px;
+}
+
+.contact-info {
+   border-radius: 15px;
+   
+}
+.contact-info h1{
+    font-size: 36px;
+    line-height: 54px;
+   
+}
+.contact-info img {
+    width: 68.21px;
+    height: 90px;
+}
+
+.first-slide{
+    background-color: rgba(255, 0, 157, 0.075);
+    border-radius: 15px;
+   
+    
+}
+.two-slide{
+    background-color: rgba(0, 183, 255, 0.075);
+
+}
+
+
+.thred-slide{
+    background-color: rgba(174, 0, 255, 0.075);
+    
+}
+.price{
+    color: rgb(255, 0, 106);
+    padding:15px 30px;
+    border-radius: 10px;
+
+}
+
+.button-style{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color:white;
+    padding:10px 20px;
+}
+.border-radius{
+    border-radius: 22px;
+}
+.contact-me{
+    background-color: rgba(247, 11, 168, 0.137);
+    height: 400px;
+    align-items:center;
+    border-radius: 10px;
+}
+.contact-info{
+    text-align: center;
+}
+.cursorinfo {
+    cursor: pointer;
+}
+.contact-info input{
+    border:none;
+    margin-left: 20px;
+    height: 73px;
+    width: 683px;
+    border-radius: 0px;
+    
+
+}
+.contact-info .contact-btn{
+    border:none;
+    background: linear-gradient(180deg, #FF589B 0%, #FF136F 100%);
+    color:white;
+    padding:10px 35px;
+    border-radius: 10px;
+    font-size: 22px;
+    height: 73px;
+    width: 157px;
+  margin-left: 5px;
+
+}
